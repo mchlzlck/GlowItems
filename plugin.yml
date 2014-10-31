@@ -1,0 +1,10 @@
+main: com.blizzardfyre.glowitems.Main
+version: 0.1
+name: GlowItems
+commands:
+  glow:
+    usage: /<command>
+    description: Adds glow.
+  deglow:
+    usage: /<command>
+    description: Removes glow.
